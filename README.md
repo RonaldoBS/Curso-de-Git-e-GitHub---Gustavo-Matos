@@ -19,3 +19,4 @@ Curso sobre como trabalhar com Git e GitHub do Gustavo Matos.
 13. git revert: MENOS SEGURO, feito para retornar a um commit anterior;
 14. git reset: NADA SEGURO, feito também para voltar a um ponto anterior, mas sem chance de retorno;
 15. git merge 'nome da branch: para mesclar as branchs;
+16. git remote add origin link-do-seu-repositorio: para o main receber o apelido 'origin' e não termos que colocar sempre o link;
