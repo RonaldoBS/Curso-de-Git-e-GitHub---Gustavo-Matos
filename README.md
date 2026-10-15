@@ -20,3 +20,6 @@ Curso sobre como trabalhar com Git e GitHub do Gustavo Matos.
 14. git reset: NADA SEGURO, feito também para voltar a um ponto anterior, mas sem chance de retorno;
 15. git merge 'nome da branch: para mesclar as branchs;
 16. git remote add origin link-do-seu-repositorio: para o main receber o apelido 'origin' e não termos que colocar sempre o link;
+17. git checkout -b 'nome do branch': para iniciar um novo branch;
+18. git pull origin master/branch: para puxar todas as atualizações da master ou da branch;
+19. git push origin master/branch: para empurrar atualizações da branch ou pro master;
